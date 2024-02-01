@@ -1,0 +1,5 @@
+iconos https://boxicons.com/?query=x
+imagenes https://unsplash.com/es
+colores https://webgradients.com/
+fuentes https://fonts.google.com/
+ilustraciones https://www.manypixels.co/gallery
